@@ -1,0 +1,7 @@
+{
+    "name": "SoSusWow App",
+    "description": "Node.js SoSusWow Fork Of Ultraviolet instance",
+    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
+    "logo": "http://assets.stickpng.com/images/61d183263a856e0004c6334a.png",
+    "keywords": ["tomp", "ultraviolet"]
+}
